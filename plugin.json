@@ -1,6 +1,7 @@
 {
   "version": "1.0.0",
   "name": "Shopgate",
+  "marketplaceName": "Shopgate",
   "description": "Um Shopgate in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei Shopgate nötig.",
   "namespace": "MultiChannelShopgate",
   "pluginIcon": "icon_plugin_xs.png",
@@ -8,8 +9,8 @@
   "email": "support@plentymarkets.eu",
   "authorIcon": "icon_author_xs.png",
   "shortDescription": {
-    "de": "Der Marktplatz Shopgate ist in plentymarkets 7 bereits integriert. Um Shopgate in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei Shopgate nötig.",
-    "en": "Shopgate is already integrated into your plentymarkets 7 system. A Shopgate seller account is mandatory for setting up Shopgate in plentymarkets."
+    "de": "Über die Anbindung des Online-Marktplatzes Shopgate wird der automatische Austausch von Artikel- und Auftragsdaten mit plentymarkets ermöglicht, um Artikel auf Shopgate zu listen. Die Schnittstelle zu Shopgate ist in plentymarkets 7 bereits integriert.",
+    "en": "The integration of the online marketplace Shopgate enables an automatic exchange of item- and order data with plentymarkets, allowing to list items on Shopgate. The interface to Shopgate is already integrated into plentymarkets 7."
   },
   "license": "AGPL-3.0",
   "categories": [
